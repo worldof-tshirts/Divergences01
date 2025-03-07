@@ -69,6 +69,8 @@ demand_concession_BC_casus_belli
 demand_concession_NI_casus_belli
 demand_concession_casus_belli
 dismantle_cb
+dismantle_nat
+dismantle_br
 dismantle_cb_add
 dismantle_cb_add_new
 dismantle_forts
